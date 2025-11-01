@@ -1,15 +1,15 @@
-# @nattui/colors
+# @nattui/tailwind-colors
 
 Centralized CSS and Tailwind color definitions for consistent styling across projects.
 
 ## Installation
 
 ```bash
-npm install @nattui/colors
+npm install @nattui/tailwind-colors
 # or
-pnpm add @nattui/colors
+pnpm add @nattui/tailwind-colors
 # or
-bun add @nattui/colors
+bun add @nattui/tailwind-colors
 ```
 
 ## Usage
@@ -17,13 +17,13 @@ bun add @nattui/colors
 ### Import in your CSS
 
 ```css
-@import "@nattui/colors";
+@import "@nattui/tailwind-colors";
 ```
 
 Or import directly in your main CSS file:
 
 ```css
-@import "@nattui/colors/src/index.css";
+@import "@nattui/tailwind-colors/src/index.css";
 ```
 
 ### Using CSS Variables
@@ -80,22 +80,3 @@ Each color palette includes:
 - **Gray**: Neutral grayscale palette with light and dark variants
 - **Primary**: Brand color palette with multiple color options (e.g., gold) and light/dark variants
 - **Black & White**: Base colors with alpha variants
-
-## Project Structure
-
-```
-src/
-├── index.css          # Main entry point (imports all files)
-├── tailwind.css       # Tailwind CSS theme definitions
-├── theme-gray.css     # Gray color theme definitions
-├── theme-primary.css  # Primary color theme definitions
-└── root.css          # Root CSS custom properties
-```
-
-## Development
-
-### Format Package JSON
-
-```bash
-npm run format:package
-```

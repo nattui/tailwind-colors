@@ -1,5 +1,5 @@
 {
-  "name": "@nattui/colors",
+  "name": "@nattui/tailwind-colors",
   "version": "0.0.1",
   "description": "Centralized CSS and Tailwind color definitions for consistent styling across projects",
   "keywords": [
@@ -10,13 +10,13 @@
     "tailwind",
     "theme"
   ],
-  "homepage": "https://github.com/nattui/colors#readme",
+  "homepage": "https://github.com/nattui/tailwind-colors#readme",
   "bugs": {
-    "url": "https://github.com/nattui/colors/issues"
+    "url": "https://github.com/nattui/tailwind-colors/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nattui/colors.git"
+    "url": "git+https://github.com/nattui/tailwind-colors.git"
   },
   "author": "Natt Nguyen <hello@natt.sh> (https://natt.sh)",
   "type": "module",
