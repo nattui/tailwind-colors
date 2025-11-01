@@ -1,0 +1,25 @@
+{
+  "name": "colors",
+  "version": "0.0.1",
+  "description": "Centralized CSS and Tailwind color definitions for consistent styling across projects",
+  "keywords": [
+    "colors",
+    "css",
+    "design-system",
+    "palette",
+    "tailwind",
+    "theme"
+  ],
+  "homepage": "https://github.com/nattui/colors#readme",
+  "bugs": {
+    "url": "https://github.com/nattui/colors/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nattui/colors.git"
+  },
+  "author": "Natt Nguyen <hello@natt.sh> (https://natt.sh)",
+  "scripts": {
+    "format:package": "bunx sort-package-json"
+  }
+}
