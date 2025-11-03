@@ -24,58 +24,6 @@
   --color-primary-a10: var(--color-primitive-gold-a10);
   --color-primary-a11: var(--color-primitive-gold-a11);
   --color-primary-a12: var(--color-primitive-gold-a12);
-
-  --color-primary-light-1: var(--color-primitive-gold-1);
-  --color-primary-light-2: var(--color-primitive-gold-2);
-  --color-primary-light-3: var(--color-primitive-gold-3);
-  --color-primary-light-4: var(--color-primitive-gold-4);
-  --color-primary-light-5: var(--color-primitive-gold-5);
-  --color-primary-light-6: var(--color-primitive-gold-6);
-  --color-primary-light-7: var(--color-primitive-gold-7);
-  --color-primary-light-8: var(--color-primitive-gold-8);
-  --color-primary-light-9: var(--color-primitive-gold-9);
-  --color-primary-light-10: var(--color-primitive-gold-10);
-  --color-primary-light-11: var(--color-primitive-gold-11);
-  --color-primary-light-12: var(--color-primitive-gold-12);
-
-  --color-primary-light-a1: var(--color-primitive-gold-a1);
-  --color-primary-light-a2: var(--color-primitive-gold-a2);
-  --color-primary-light-a3: var(--color-primitive-gold-a3);
-  --color-primary-light-a4: var(--color-primitive-gold-a4);
-  --color-primary-light-a5: var(--color-primitive-gold-a5);
-  --color-primary-light-a6: var(--color-primitive-gold-a6);
-  --color-primary-light-a7: var(--color-primitive-gold-a7);
-  --color-primary-light-a8: var(--color-primitive-gold-a8);
-  --color-primary-light-a9: var(--color-primitive-gold-a9);
-  --color-primary-light-a10: var(--color-primitive-gold-a10);
-  --color-primary-light-a11: var(--color-primitive-gold-a11);
-  --color-primary-light-a12: var(--color-primitive-gold-a12);
-
-  --color-primary-dark-1: var(--color-primitive-gold-dark-1);
-  --color-primary-dark-2: var(--color-primitive-gold-dark-2);
-  --color-primary-dark-3: var(--color-primitive-gold-dark-3);
-  --color-primary-dark-4: var(--color-primitive-gold-dark-4);
-  --color-primary-dark-5: var(--color-primitive-gold-dark-5);
-  --color-primary-dark-6: var(--color-primitive-gold-dark-6);
-  --color-primary-dark-7: var(--color-primitive-gold-dark-7);
-  --color-primary-dark-8: var(--color-primitive-gold-dark-8);
-  --color-primary-dark-9: var(--color-primitive-gold-dark-9);
-  --color-primary-dark-10: var(--color-primitive-gold-dark-10);
-  --color-primary-dark-11: var(--color-primitive-gold-dark-11);
-  --color-primary-dark-12: var(--color-primitive-gold-dark-12);
-
-  --color-primary-dark-a1: var(--color-primitive-gold-dark-a1);
-  --color-primary-dark-a2: var(--color-primitive-gold-dark-a2);
-  --color-primary-dark-a3: var(--color-primitive-gold-dark-a3);
-  --color-primary-dark-a4: var(--color-primitive-gold-dark-a4);
-  --color-primary-dark-a5: var(--color-primitive-gold-dark-a5);
-  --color-primary-dark-a6: var(--color-primitive-gold-dark-a6);
-  --color-primary-dark-a7: var(--color-primitive-gold-dark-a7);
-  --color-primary-dark-a8: var(--color-primitive-gold-dark-a8);
-  --color-primary-dark-a9: var(--color-primitive-gold-dark-a9);
-  --color-primary-dark-a10: var(--color-primitive-gold-dark-a10);
-  --color-primary-dark-a11: var(--color-primitive-gold-dark-a11);
-  --color-primary-dark-a12: var(--color-primitive-gold-dark-a12);
 }
 
 .color-primary-gold-dark {
@@ -104,7 +52,10 @@
   --color-primary-a10: var(--color-primitive-gold-dark-a10);
   --color-primary-a11: var(--color-primitive-gold-dark-a11);
   --color-primary-a12: var(--color-primitive-gold-dark-a12);
+}
 
+.color-primary-gold,
+.color-primary-gold-dark {
   --color-primary-light-1: var(--color-primitive-gold-1);
   --color-primary-light-2: var(--color-primitive-gold-2);
   --color-primary-light-3: var(--color-primitive-gold-3);
